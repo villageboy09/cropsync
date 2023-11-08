@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000809476612",
+    "project_id": "cropsync-c6e50",
+    "storage_bucket": "cropsync-c6e50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000809476612:android:6e643cbd83894882d2bb51",
+        "android_client_info": {
+          "package_name": "com.example.cropsync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYRaj8USjFPTJlkCxWr6-BVZ_LkwehIqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
